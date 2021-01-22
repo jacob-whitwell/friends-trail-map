@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\University_Work\\COMP1004\\friends-trail-map\\friends_trail_map\\friends_trail_map\\friends_trail_map.csproj",
+      "projectUniqueName": "D:\\University_Work\\COMP1004\\friends-trail-map\\friends_trail_map.csproj",
       "projectName": "friends_trail_map",
-      "projectPath": "D:\\University_Work\\COMP1004\\friends-trail-map\\friends_trail_map\\friends_trail_map\\friends_trail_map.csproj",
+      "projectPath": "D:\\University_Work\\COMP1004\\friends-trail-map\\friends_trail_map.csproj",
       "packagesPath": "C:\\Users\\Jay\\.nuget\\packages\\",
-      "outputPath": "D:\\University_Work\\COMP1004\\friends-trail-map\\friends_trail_map\\friends_trail_map\\obj\\",
+      "outputPath": "D:\\University_Work\\COMP1004\\friends-trail-map\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\"
