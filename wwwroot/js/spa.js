@@ -1,14 +1,11 @@
 ﻿$(document).ready(function () {
+
     $('#map').click(function () {
         $('#page-content-wrapper').load('map.html')
     })
 
-    $('#treasure').click(function () {
-        $('#page-content-wrapper').load('treasure.html')
+    $('#home').click(function () {
+        $('#page-content-wrapper').load('home.html')
     })
 
-    $('#data').click(function () {
-        $('#page-content-wrapper').load('data.html')
-    })
-     
 });
